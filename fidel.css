@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(129, 129, 107);
+}
+.header{
+text-align: center;
+font-size: xx-large;
+}
+
+
+button{
+  width: 65px;
+  height: 70px;
+  margin: 10px 10px;
+  border: none;
+  background-color: rgba(202, 236, 10, 0.753);
+  padding: 8px 12px;
+  color: rgb(6, 6, 160);
+  font-weight: bolder;
+  border-radius: 10px;
+  font-size: larger;
+}
